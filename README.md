@@ -1,2 +1,2 @@
 # Javascript Fundamentals 1
-Practice for the fundamentals of Javascript.
+Practice for the fundamentals of JavaScript.
